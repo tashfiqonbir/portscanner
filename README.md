@@ -23,8 +23,8 @@ I am not responsible for any misuse.
 pkg update && pkg upgrade
 pkg install python
 pip install pyfiglet
-git clone https://github.com/tashfiqonbir/PORT-SCANNER
-cd PORT-SCANNER
+git clone https://github.com/tashfiqonbir/portscanner
+cd portscanner
 
 ```
 ## Usage 
